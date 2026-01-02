@@ -1,6 +1,8 @@
 echo "# my-github-file" >> README.md
 git init
 git add README.md
+
+--evry time command--
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/muhiuddinshanto/my-github-file.git
